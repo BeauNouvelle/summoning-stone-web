@@ -26,23 +26,23 @@ If you have any concerns, there's a great article on their website here: (https:
 
 ##### TelemetryDECK
 
-This is for general app usage analytics. We use this to track active user sessions, and pathways you may take throughout the app. What we track in these circumstances is all hard coded. So not every little interaction is captured. We can use this information to determine what are the most or least popular features of this app. This gives us a better understanding of what works and what doesn't and informs our descisions on what to work on next. Even better if you could email us with your suggestions as those carry a lot more weight!
+This is for general app usage analytics. We use this to track active user sessions, and pathways you may take throughout the app. What we track in these circumstances is all hard coded. So not every little interaction is captured. We can use this information to determine what are the most or least popular features of this app. This gives us a better understanding of what works and what doesn't and informs our decisions on what to work on next. Even better if you could email us with your suggestions as those carry a lot more weight!
 
 The kinds of things tracked include but aren't limited to:
 
 - Sessions start/end times and length.
 - Subscription page views.
 - Adding/Removing SFX. 
-- Scene and Campaign creation.
+- Scene and Campaign creation/deletion.
 
-Note that we only track the events themselves, and not the content. We aren't interested in your music choices (as great as they may be) or the artwork you have in your campaigns. 
+Note that we only track the events themselves, and not the content. We aren't interested in your music choices (as great as they may be) or the artwork you have in your campaigns.
 
-They're a pretty good company and anonymize your data. Check out their privacy policy here: (https://telemetrydeck.com/privacy/)[https://telemetrydeck.com/privacy/]
+They're a good company and anonymize your data. Check out their privacy policy here: (https://telemetrydeck.com/privacy/)[https://telemetrydeck.com/privacy/]
 
 ##### RevenueCat
-Revenuecat takes a lot of work out of implementing in app subscriptions. It also allows us to adjust the offerings and update our copy within the app without needing to submit updates to the store.
+Revenuecat takes a lot of work out of implementing in app subscriptions for indie developers like us. It allows us to adjust the offerings and update our copy within the app without needing to submit updates to the store.
 
-It also keeps track of purchases and informs us on how many users are on a trial, vs expired, vs subscribed. There's a lot to it, but this too is private and anonymous. Check out their policy here: (https://www.revenuecat.com/privacy/)[https://www.revenuecat.com/privacy/]
+It also keeps track of purchases and informs us on how many users are on a trial, vs expired, vs subscribed. Check out their policy here: (https://www.revenuecat.com/privacy/)[https://www.revenuecat.com/privacy/]
 
 
 --------
