@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Emil Baehr                                
 your_link                                 : https://emilbaehr.com                     
 your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+email_address                             : hello@summoningstone.app
 facebook_username                         :                                           
 instagram_username                        : ebaehr
 twitter_username                          : ebaehr
@@ -84,13 +84,13 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.3
 
 device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#9102FE"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
