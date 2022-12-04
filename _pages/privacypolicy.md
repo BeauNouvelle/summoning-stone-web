@@ -5,56 +5,48 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+December 4 2022
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Last updated December 04, 2022
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+### What information we collect
+We currently use 3 third party libraries withing Summoning Stone to track app usage, in app purchases and errors/crashes. This may change in the future, but where possible, we will used paid and secure services so that your information remains anonymous.
 
-<br>
+1. Bugsnag
+This is for capturing crashes and is an important tool that can help us track down and fix issues with the app so that you continue to have a good experience. The kind of imformation collected includes, but is not limited to:
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+- Time and date of crash
+- Device details such as OS version, make and model, and screen size.
+- App details such as version number.
+- A crash log. These can include events triggered by you while using the app and is used to help determine what may have triggered the crash.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+If you have any concerns, there's a great article on their website here: (https://www.bugsnag.com/product/security)[https://www.bugsnag.com/product/security]. Alternatively you can check out their privacy policy here: (https://smartbear.com/privacy/)[https://smartbear.com/privacy/]
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+2. TelemtryDECK
 
-<br>
+This is for general app usage analytics. We use this to track active user sessions, and pathways you may take throughout the app. What we track in these circumstances is all hard coded. So not every little interaction is captured. We can use this information to determine what are the most or least popular features of this app. This gives us a better understanding of what works and what doesn't and informs our descisions on what to work on next. Even better if you could email us with your suggestions as those carry a lot more weight!
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+The kinds of things tracked include but aren't limited to:
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+- Sessions start/end times and length.
+- Subscription page views.
+- Adding/Removing SFX. 
+- Scene and Campaign creation.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+Note that we only track the events themselves, and not the content. We aren't interested in your music choices (as great as they may be) or the artwork you have in your campaigns. 
 
-<br>
+They're a pretty good company and anonymize your data. Check out their privacy policy here: (https://telemetrydeck.com/privacy/)[https://telemetrydeck.com/privacy/]
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+3. RevenueCat
+Revenuecat takes a lot of work out of implementing in app subscriptions. It also allows us to adjust the offerings and update our copy within the app without needing to submit updates to the store.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+It also keeps track of purchases and informs us on how many users are on a trial, vs expired, vs subscribed. There's a lot to it, but this too is private and anonymous. Check out their policy here: (https://www.revenuecat.com/privacy/)[https://www.revenuecat.com/privacy/]
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
-<br>
+--------
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+Finally, just want to add that due to how cautious we are with your information, it does mean that there are limits to some of the support we can provide. For example, services like RevenueCat allow us to give free subscriptions for certain users — if we have a way to identify them (username/email/phone/unique id). But becuase we don't capture that information, performing such as task is impossible. This just means that we can't give out free subscriptions, track down billing issues or give you an export of your information. In future we may introduce an opt-in identifier that could help with these.
 
-<br>
+For billing problems you'll need to reach out to Apple. 
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
