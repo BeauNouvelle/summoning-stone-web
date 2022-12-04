@@ -13,7 +13,7 @@ Last updated December 04, 2022
 ### What information we collect
 We currently use 3 third party libraries within Summoning Stone to track app usage, in app purchases and errors/crashes. This may change in the future, but where possible, we use paid and secure services so that your information remains anonymous.
 
-##### Bugsnag
+#### Bugsnag
 
 This is for capturing crashes and is an important tool that can help us track down and fix issues with the app so that you continue to have a good experience. The kind of imformation collected includes, but is not limited to:
 
@@ -24,7 +24,7 @@ This is for capturing crashes and is an important tool that can help us track do
 
 If you have any concerns, there's a great article on their website here: (https://www.bugsnag.com/product/security)[https://www.bugsnag.com/product/security]. Alternatively you can check out their privacy policy here: (https://smartbear.com/privacy/)[https://smartbear.com/privacy/]
 
-##### TelemetryDECK
+#### TelemetryDECK
 
 This is for general app usage analytics. We use this to track active user sessions, and pathways you may take throughout the app. What we track in these circumstances is all hard coded. So not every little interaction is captured. We can use this information to determine what are the most or least popular features of this app. This gives us a better understanding of what works and what doesn't and informs our decisions on what to work on next. Even better if you could email us with your suggestions as those carry a lot more weight!
 
@@ -39,7 +39,7 @@ Note that we only track the events themselves, and not the content. We aren't in
 
 They're a good company and anonymize your data. Check out their privacy policy here: (https://telemetrydeck.com/privacy/)[https://telemetrydeck.com/privacy/]
 
-##### RevenueCat
+#### RevenueCat
 Revenuecat takes a lot of work out of implementing in app subscriptions for indie developers like us. It allows us to adjust the offerings and update our copy within the app without needing to submit updates to the store.
 
 It also keeps track of purchases and informs us on how many users are on a trial, vs expired, vs subscribed. Check out their policy here: (https://www.revenuecat.com/privacy/)[https://www.revenuecat.com/privacy/]
