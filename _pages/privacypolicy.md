@@ -22,7 +22,7 @@ This is for capturing crashes and is an important tool that can help us track do
 - App details such as version number.
 - A crash log. These can include events triggered by you while using the app and is used to help determine what may have triggered the crash.
 
-If you have any concerns, there's a great article on their website here: (https://www.bugsnag.com/product/security)[https://www.bugsnag.com/product/security]. Alternatively you can check out their privacy policy here: (https://smartbear.com/privacy/)[https://smartbear.com/privacy/]
+If you have any concerns, there's a great article on their website here: [https://www.bugsnag.com/product/security](https://www.bugsnag.com/product/security). Alternatively you can check out their privacy policy here: [https://smartbear.com/privacy/](https://smartbear.com/privacy/])
 
 #### TelemetryDECK
 
@@ -37,12 +37,12 @@ The kinds of things tracked include but aren't limited to:
 
 Note that we only track the events themselves, and not the content. We aren't interested in your music choices (as great as they may be) or the artwork you have in your campaigns.
 
-They're a good company and anonymize your data. Check out their privacy policy here: (https://telemetrydeck.com/privacy/)[https://telemetrydeck.com/privacy/]
+They're a good company and anonymize your data. Check out their privacy policy here: [https://telemetrydeck.com/privacy/](https://telemetrydeck.com/privacy/)
 
 #### RevenueCat
 Revenuecat takes a lot of work out of implementing in app subscriptions for indie developers like us. It allows us to adjust the offerings and update our copy within the app without needing to submit updates to the store.
 
-It also keeps track of purchases and informs us on how many users are on a trial, vs expired, vs subscribed. Check out their policy here: (https://www.revenuecat.com/privacy/)[https://www.revenuecat.com/privacy/]
+It also keeps track of purchases and informs us on how many users are on a trial, vs expired, vs subscribed. Check out their policy here:[https://www.revenuecat.com/privacy/](https://www.revenuecat.com/privacy/)
 
 
 --------
