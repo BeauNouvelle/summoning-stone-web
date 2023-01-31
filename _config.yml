@@ -13,7 +13,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Summoning Stone                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Transform your tabletop gaming with Summoning Stone - where immersive soundscapes meet fantasy and sci-fi.
+app_description                           : The Soundtrack to Your Adventure
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,7 +35,7 @@ twitter_username                          : beaunouvelle
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : Auditory Organization
     description                           : Streamline your tabletop RPG experience with Summoning Stone, the ultimate app for Dungeon Masters and Game Masters.
     fontawesome_icon_name                 : magic
     
@@ -47,26 +47,21 @@ features                                  :
     description                           : Packed with sound effects for both sci-fi and fantasy style games, the soundboard adds depth to your scenes.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Amazing Visuals
     description                           : Display stunning artwork on your TV with weather effects to fully immerse your players.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
+  - title                                 : Simple Sound Categorization
     description                           : Organize your sounds into "scenes" and categorize by campaign for easy access.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
+  - title                                 : Scene-Building Soundscapes
     description                           : Select a scene and bring it to life with music, ambience, and SFX all blended together.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
+  - title                                 : Unforgettable RPG Experiences
     description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
     fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Summoning Stone is the must-have app for every Dungeon Master and Game Master looking to take their tabletop RPG to the next level.
-    fontawesome_icon_name                 : link
-
 
 
 # Theme Settings
