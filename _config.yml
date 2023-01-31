@@ -13,22 +13,22 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Summoning Stone                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Transform your tabletop gaming with Summoning Stone - where immersive soundscapes meet fantasy and sci-fi.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
+your_name                                 : Beau Nouvelle
+your_link                                 : https://iosdev.space/@beau
+your_city                                 : Melbourne
 email_address                             : hello@summoningstone.app
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
+#facebook_username                         :
+#instagram_username                        : ebaehr
+twitter_username                          : beaunouvelle
+#github_username                           : emilbaehr
+#youtube_username                          :
 
 
 
@@ -36,44 +36,36 @@ youtube_username                          :
 features                                  :
 
   - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : Streamline your tabletop RPG experience with Summoning Stone, the ultimate app for Dungeon Masters and Game Masters.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Integrated with Apple Music
+    description                           : Integrate seamlessly with Apple Music and access all your playlists to create immersive soundscapes.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Sounds for Every Scene
+    description                           : Packed with sound effects for both sci-fi and fantasy style games, the soundboard adds depth to your scenes.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : Display stunning artwork on your TV with weather effects to fully immerse your players.
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Organize your sounds into "scenes" and categorize by campaign for easy access.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : Select a scene and bring it to life with music, ambience, and SFX all blended together.
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+    description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : Summoning Stone is the must-have app for every Dungeon Master and Game Master looking to take their tabletop RPG to the next level.
     fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
