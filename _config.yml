@@ -34,34 +34,30 @@ twitter_username                          : beaunouvelle
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : Auditory Organization
-    description                           : Streamline your tabletop RPG experience with Summoning Stone, the ultimate app for Dungeon Masters and Game Masters.
-    fontawesome_icon_name                 : volume-up
     
   - title                                 : Integrated with Apple Music
     description                           : Integrate seamlessly with Apple Music and access all your playlists to create immersive soundscapes.
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : fa-apple
 
   - title                                 : Sounds for Every Scene
     description                           : Packed with sound effects for both sci-fi and fantasy style games, the soundboard adds depth to your scenes.
-    fontawesome_icon_name                 : clapperboard
+    fontawesome_icon_name                 : volume-up
 
   - title                                 : Amazing Visuals
     description                           : Display stunning artwork on your TV with weather effects to fully immerse your players.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : eye
 
   - title                                 : Simple Sound Categorization
     description                           : Organize your sounds into "scenes" and categorize by campaign for easy access.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : table
   
   - title                                 : Scene-Building Soundscapes
     description                           : Select a scene and bring it to life with music, ambience, and SFX all blended together.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : flask
 
   - title                                 : Unforgettable RPG Experiences
     description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : star
 
 
 # Theme Settings
@@ -89,7 +85,7 @@ feature_text_color                        : "#666666"
 feature_icons_foreground_color            : "#1d63ea"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#666666"
+social_icons_foreground_color             : "#9102FE"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
