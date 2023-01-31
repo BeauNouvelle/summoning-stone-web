@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Auditory Organization
     description                           : Streamline your tabletop RPG experience with Summoning Stone, the ultimate app for Dungeon Masters and Game Masters.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : volume-up
     
   - title                                 : Integrated with Apple Music
     description                           : Integrate seamlessly with Apple Music and access all your playlists to create immersive soundscapes.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : apple
 
   - title                                 : Sounds for Every Scene
     description                           : Packed with sound effects for both sci-fi and fantasy style games, the soundboard adds depth to your scenes.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : clapperboard
 
   - title                                 : Amazing Visuals
     description                           : Display stunning artwork on your TV with weather effects to fully immerse your players.
