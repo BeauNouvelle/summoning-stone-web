@@ -83,10 +83,10 @@ feature_title_color                       : "#ffffff"
 feature_text_color                        : "#bbbbbb"
 
 feature_icons_foreground_color            : "#9102FE"
-feature_icons_background_color            : "#444444"
+feature_icons_background_color            : "#222222"
 
 social_icons_foreground_color             : "#9102FE"
-social_icons_background_color             : "#444444"
+social_icons_background_color             : "#222222"
 
 footer_text_color                         : "#666666"
 
