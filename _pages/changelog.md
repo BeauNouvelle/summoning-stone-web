@@ -8,8 +8,18 @@ include_in_header: true
 
 <br>
 
+# **Version 2.1**
+The big release!
+
+#### Bug Fixes
+- Fixed some issues relating to in-app purchases. 
+
+<br>
+
+<br>
+
 ### `Initial Release`
-# **Version 1.0**
+# **Version 2.0**
 The big release!
 
 #### What's New
