@@ -5,6 +5,10 @@ include_in_header: true
 ---
 
 # Changelog
+<br>
+# **Version 2.3**
+- Redesign for easier navigation and quick setup.
+- Added templates to help you get started faster and learn the app!
 
 <br>
 
