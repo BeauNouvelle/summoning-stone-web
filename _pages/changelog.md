@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 <br>
+# **Version 2.5.0**
+- Added reverb controls for sound effects and ambience
+- Added main volume control for sound effects.
+- Replaced bar crowd ambience with a better one. 
+
+<br>
 # **Version 2.4.1**
 - Bug fixes.
 
