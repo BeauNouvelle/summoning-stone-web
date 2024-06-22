@@ -4,6 +4,8 @@ title: Battle of the Soundboards: Summoning Stone vs. Syrinscape vs. Pocket Bard
 include_in_header: false
 ---
 
+# Battle of the Soundboards: Summoning Stone vs. Syrinscape vs. Pocket Bard
+
 In the realm of tabletop RPGs, audio plays a pivotal role in creating an immersive and unforgettable experience. Today, we’re pitting Summoning Stone against two popular competitors: Syrinscape and Pocket Bard. Let’s dive into what each brings to the table and why Summoning Stone might just be your new go-to app.
 
 ### Summoning Stone
