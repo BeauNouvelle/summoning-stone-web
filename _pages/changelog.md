@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 <br>
+# **Version 2.5.4**
+- Improved error reporting so I can actually fix some of them.
+
 # **Version 2.5.3**
 - Added new sound effects and ambience.
 
