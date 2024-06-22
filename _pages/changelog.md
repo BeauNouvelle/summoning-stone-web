@@ -5,9 +5,18 @@ include_in_header: true
 ---
 
 # Changelog
+
+<br>
+# **Version 2.5.3**
+- Added new sound effects and ambience.
+
+<br>
+# **Version 2.5.2**
+- Had to revert some changes as there were bugs with the new audio controls.
+
 <br>
 # **Version 2.5.0**
-- Added reverb controls for sound effects and ambience
+- Added reverb controls for sound effects and ambience.
 - Added main volume control for sound effects.
 - Replaced bar crowd ambience with a better one. 
 
