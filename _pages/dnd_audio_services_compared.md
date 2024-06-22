@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Battle of the Soundboards: Summoning Stone vs. Syrinscape vs. Pocket Bard
+title: Summoning Stone vs Syrinscape vs Pocket Bard
 include_in_header: false
 ---
 
