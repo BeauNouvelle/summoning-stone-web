@@ -57,11 +57,6 @@ features                                  :
     description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
     fontawesome_icon_name                 : star
 
-  - title                                 : Test
-    description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
-    fontawesome_icon_name                 : star
-
-
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
