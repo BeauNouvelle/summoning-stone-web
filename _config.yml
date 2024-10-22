@@ -13,11 +13,9 @@ presskit_download_link                    : https://impresskit.net/87243e36-7f9b
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Summoning Stone                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The soundtrack to your adventure!
+app_description                           : Filled to the brim with all the audio tools you will ever need to guide your players through epic adventures!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
-
-
 
 # Information About Yourself
 your_name                                 : Beau Nouvelle
@@ -56,6 +54,10 @@ features                                  :
     fontawesome_icon_name                 : flask
 
   - title                                 : Unforgettable RPG Experiences
+    description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Test
     description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
     fontawesome_icon_name                 : star
 
