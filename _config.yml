@@ -65,6 +65,10 @@ features                                  :
     description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences using the best sound effects, ambient music from any tabletop rpg app on the platform.
     fontawesome_icon_name                 : brain
 
+  - title                                 : What can I play?
+    description                           : Summoning Stone is built for all tabletop and board games. Dungeons and Dragons, Pathfinder, Starfinder, Vampire the Masquerade, The One Ring, Warhammer, Talisman, Magic the Gathering, Gloomhaven, Hero Quest...
+    fontawesome_icon_name                 : dice
+
 
 # Theme Settings
 topbar_color                              : "#000000"
