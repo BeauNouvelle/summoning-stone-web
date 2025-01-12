@@ -33,29 +33,38 @@ youtube_username                          : GetSwifty
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
     
-  - title                                 : Integrated with Apple Music
-    description                           : Integrate seamlessly with Apple Music and access all your playlists to create immersive soundscapes.
+  - title                                 : Integrated with Music
+    description                           : Integrate seamlessly with Apple Music and access all your playlists and millions of tracks from your favorite movies and videos games to create immersive soundscapes.
     fontawesome_icon_name                 : link
 
   - title                                 : Sounds for Every Scene
-    description                           : Packed with sound effects for both sci-fi and fantasy style games, the soundboard adds depth to your scenes.
+    description                           : Packed with sound effects for fantasy, modern and sci-fi tabletop games, the soundboard adds depth to your scenes.
     fontawesome_icon_name                 : volume-up
 
   - title                                 : Amazing Visuals
-    description                           : Display stunning artwork on your TV with weather effects to fully immerse your players.
-    fontawesome_icon_name                 : eye
+    description                           : Display stunning artwork or maps on your TV with weather effects to fully immerse your players. These change automatically when your players switch scenes.
+    fontawesome_icon_name                 : map
+
+  - title                                 : Control Your Domain
+    description                           : Got some smart lights or other automated devices in your gaming space? Hook them up to Summoning Stone using the Siri Shortcuts integration and make your RPG a 4D experience.
+    fontawesome_icon_name                 : lightbulb
 
   - title                                 : Simple Sound Categorization
-    description                           : Organize your sounds into "scenes" and categorize by campaign for easy access.
+    description                           : Create "scenes" comprising of music, sound effects and ambience. Attach these to a Campaign and crossfade between them with the press of a button.
     fontawesome_icon_name                 : table
   
   - title                                 : Scene-Building Soundscapes
     description                           : Select a scene and bring it to life with music, ambience, and SFX all blended together.
     fontawesome_icon_name                 : flask
 
-  - title                                 : Unforgettable RPG Experiences
-    description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences.
+  - title                                 : Steam Safe Music
+    description                           : Not only does Summoning Stone work with Apple music, but it also has some epic royalty free music of it's own!
     fontawesome_icon_name                 : star
+
+  - title                                 : Unforgettable RPG Experiences
+    description                           : Captivate your players, transport them to a world beyond their imagination, and create unforgettable gaming experiences using the best sound effects, ambient music from any tabletop rpg app on the platform.
+    fontawesome_icon_name                 : brain
+
 
 # Theme Settings
 topbar_color                              : "#000000"
